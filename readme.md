@@ -9,6 +9,13 @@ I'm a passionate developer focused on creating elegant and efficient solutions. 
 🎯 Focused on building robust and scalable applications  
 📍 Based in Portugal
 
+## 🌐 Portfolio
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://about.sfernandes.ovh)
+
+**Check out my portfolio** for more about my work, projects, and experience!  
+👉 [about.sfernandes.ovh](https://about.sfernandes.ovh)
+
 ## 🛠️ Technologies & Tools
 
 ### Backend
@@ -55,6 +62,7 @@ Vue.js vision board application
 
 ## 📫 Get in Touch
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://about.sfernandes.ovh)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smiguelfernandes/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@sfernandes.ovh)
 
