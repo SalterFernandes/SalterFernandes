@@ -39,9 +39,11 @@ I'm a passionate developer focused on creating elegant and efficient solutions. 
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SalterFernandes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SalterFernandes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SalterFernandes&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=SalterFernandes&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SalterFernandes&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
 ## 🔥 Featured Projects
 
